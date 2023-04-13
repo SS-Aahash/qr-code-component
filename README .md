@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## Table of contents
 
@@ -14,15 +14,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 This is QR code component made using FLEXBOX in css and html5;
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/SS-Aahash/qr-code-component)
+- Live Site URL: [live site URL](https://ss-aahash.github.io/qr-code-component/)
 
 ## My process
 1. The first div(class = "parent") covers the whole page. I used it to center the whole    component using flexbox properties.
@@ -45,9 +44,8 @@ I learned about :-
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- linkedin - [Visit Linkedin](https://www.linkedin.com/in/aahash/)
 - Frontend Mentor - [@SS-Aahash](https://www.frontendmentor.io/profile/SS-Aahash)
-- linkedin - https://www.linkedin.com/in/aahash/
 
 ## Acknowledgments
 
